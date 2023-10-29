@@ -52,7 +52,7 @@ Before installing this project, you need to install on your computer:
 
 Then open a terminal and clone the project:
 ```
-git clone https://github.com/danadanile/andoid_Web.git
+git clone https://github.com/adi-ben-yehuda/android_chat.git
 ```
 
 And run the app.
