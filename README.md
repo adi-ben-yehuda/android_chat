@@ -1,4 +1,4 @@
-# andoid_Web
+# Android chat
 
 In this repository, we have created an Android app for a chat system. This is the client side. You can find the server side [here](https://github.com/adi-ben-yehuda/Server)
 
